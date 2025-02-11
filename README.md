@@ -46,5 +46,6 @@
 
 > "With great code comes great responsibility" — Uncle Ben (версия для разработчиков)
 
+[![Spider-Man Coding](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)](https://giphy.com/gifs/XbxZ41fWLeRECPsGIJ)
 
 *Всегда онлайн и готов к новым вызовам — как Человек-паук готов к злодеям!* 🕷️
