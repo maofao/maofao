@@ -1,49 +1,50 @@
-# Привет, меня зовут Matvey 👋
+# 👋 Привет, я Matvey | Frontend Developer 🚀
 
-**Frontend Developer** 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spider-Man's+Code+Style%F0%9F%95%B8%EF%B8%8F;React+%7C+TypeScript+%7C+AI+Enthusiast;24%2F7+Code+Web-Slinging!)](https://git.io/typing-svg)
 
----
+## 🕷 Обо мне
 
-## Обо мне
+- 🚀 **Текущий проект:** Разрабатываю космические интерфейсы в [GravitinoUp](https://github.com/GravitinoUp) 🌌
+- 📚 **Изучаю с passion:**  
+  ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+- 🎧 **Саундтрек кода:** Hip-Hop beats + синтезаторы из Blade Runner 2049
+- 🏀 **Перерывы:** Alley-oop'ы в баскетбол + анализ кинематографа Нолана
+- 🇩🇪 **Deutsch:** "Ich programmiere mit der Präzision eines Schweizer Uhrwerks" ⌚
 
-Я – креативный и энергичный frontend-разработчик, страстно увлечённый созданием современных и отзывчивых веб-приложений. Постоянно учусь и экспериментирую с новыми технологиями, чтобы создавать уникальный пользовательский опыт.
+## 💻 Технологический арсенал
 
-- 🔭 **Сейчас работаю:** [GravitinoUp](https://github.com/GravitinoUp)
-- 🌱 **Изучаю:** JavaScript, React, HTML, Python, TypeScript
-- 💬 **Интересы:** Компьютеры, хип-хоп музыка, искусственный интеллект, баскетбол, кино, искусство
-- 📫 **Связь:** [matveyka.fadeyka@gmail.com](mailto:matveyka.fadeyka@gmail.com)
-- ⚡ **Интересный факт:** Всегда online, обожаю Человека-паука, уровень немецкого B2
+### 🛠 Core Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
----
+### 🎨 Frontend Essentials
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 
-## Технологии и инструменты
+### 🤖 AI/ML Curiosity
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
+## 📊 GitHub Metrics
 
----
+[![Matvey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maofao&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maofao&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Статистика GitHub
+[![GitHub Streak](https://streak-stats.demolab.com?user=maofao&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-  <a href="https://github.com/maofao">
-    <img src="https://github-readme-stats.vercel.app/api?username=maofao&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maofao&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
+## 🕸 Сеть паука
 
----
+- 📧 **Email:** [![Gmail](https://img.shields.io/badge/-matveyka.fadeyka@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:matveyka.fadeyka@gmail.com)
+- 📱 **Telegram:** [![Telegram](https://img.shields.io/badge/-@mkid1e-26A5E4?logo=telegram)](https://t.me/mkid1e)
+- 🎨 **Behance/Dribbble:** *Coming soon...* (пока что проектирую UI в уме)
 
-## Контакты
+## 🎬 Финал
 
-- **Telegram:** [@mkid1e](https://t.me/mkid1e)
+> "With great code comes great responsibility" — Uncle Ben (версия для разработчиков)
 
----
+
+*Всегда онлайн и готов к новым вызовам — как Человек-паук готов к злодеям!* 🕷️
