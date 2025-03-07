@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maofao&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maofao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maofao&layout=compact&theme=dark&bg_color=0D1117&title_color=DD472C&text_color=DDDDDD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
