@@ -9,7 +9,8 @@
 ## 🕷️ Обо мне
 
 - 🚀 **Текущий проект:** Создаю космические интерфейсы в GRAVITINOUP  
-- 🧠 **Увлечения:** Искусственный интеллект + Креативный фронтенд = 💥  
+- � **Увлечения:** Искусственный интеллект + Креативный фронтенд = 💥  
+- 🌌 **Цель:** Создать интерфейс для управления мультивселенной  
 
 ## 🛠️ Технологический арсенал
 
@@ -18,6 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **UI/UX Мастерство**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -25,6 +27,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### **JS Libraries & Frameworks**
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
@@ -32,6 +36,7 @@
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white&style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-1A1A1A?style=for-the-badge&logo=zod&logoColor=white)
 
 ### **AI/ML Инструменты**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -39,8 +44,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
+### **Базы данных**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### **🛠 Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Metrics
 
@@ -49,6 +61,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=maofao&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maofao&layout=compact&theme=dark&bg_color=0D1117&title_color=DD472C&text_color=DDDDDD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=maofao&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -65,6 +79,12 @@
   <a href="https://t.me/mkid1e">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  <a href="https://linkedin.com/in/matvey-fadeev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/matvey_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </div>
 
 ## 🎬 Финал
@@ -76,4 +96,44 @@
 </div>
 
 - 🚀 **Ищу крутые проекты для создания цифровой магии!**  
-- 🤝 **Доступен для коллабов:** Фронтенд × AI × Космический UI
+- 🤝 **Доступен для коллабов:** Фронтенд × AI × Космический UI  
+
+---
+
+### 🛠️ Мои проекты
+
+- **GRAVITINOUP** - Космические интерфейсы для будущего  
+- **AI Dashboard** - Управление AI-моделями через интуитивный интерфейс  
+- **Multiverse UI Kit** - Библиотека компонентов для креативных проектов  
+
+---
+
+### 📫 Как связаться
+
+- **Email:** [matveyka.fadeyka@gmail.com](mailto:matveyka.fadeyka@gmail.com)  
+- **Telegram:** [@mkid1e](https://t.me/mkid1e)  
+- **GitHub:** [maofao](https://github.com/maofao)  
+
+---
+
+### 🎯 Цели на будущее
+
+- 🌌 Создать интерфейс для управления мультивселенной  
+- 🤖 Интегрировать AI в каждый проект  
+- 🚀 Освоить новые технологии для создания еще более крутых интерфейсов  
+
+---
+
+### 📈 Дополнительная статистика
+
+<div align="center">
+
+[![GitHub Commits](https://img.shields.io/github/commit-activity/m/maofao?label=Commits&style=for-the-badge)](https://github.com/maofao)
+[![GitHub Issues](https://img.shields.io/github/issues/maofao?label=Issues&style=for-the-badge)](https://github.com/maofao)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/maofao?label=Pull%20Requests&style=for-the-badge)](https://github.com/maofao)
+
+</div>
+
+---
+
+> "С кодом и паутиной, я создаю будущее!" 🕷️
