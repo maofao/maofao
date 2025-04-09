@@ -7,9 +7,8 @@
 </div>
 
 ## 🕷️ Обо мне
-
 - 🚀 **Текущий проект:** Создаю космические интерфейсы в GRAVITINOUP  
-- � **Увлечения:** Искусственный интеллект + Креативный фронтенд = 💥  
+- ⚡ **Увлечения:** Искусственный интеллект + креативный фронтенд = 💥  
 - 🌌 **Цель:** Создать интерфейс для управления мультивселенной  
 
 ## 🛠️ Технологический арсенал
@@ -54,24 +53,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Metrics
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maofao&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## ✨ Виджеты Статистики
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maofao&layout=compact&theme=dark&bg_color=0D1117&title_color=DD472C&text_color=DDDDDD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### language's
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maofao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=maofao&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=maofao&theme=juicyfresh&no-bg=true" />
 
-</div>
+---
 
-## 🏆 Достижения
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maofao&theme=onedark&no-frame=true&row=2&column=4)
-
-## 🕸️ Сеть паука
-
+## 📫 Контакты
 <div align="center">
   <a href="mailto:matveyka.fadeyka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -79,61 +74,13 @@
   <a href="https://t.me/mkid1e">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://linkedin.com/in/matvey-fadeev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/matvey_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
-
-## 🎬 Финал
-
-> "Каждая строчка кода - это паутинка в веб-вселенной" 🌌
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toNmoxN3BydTRtcDBxMDk2cTRuY2h4MWozNGo1b2h6dGgzMThkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqxbgri8lBSzvMVI3Y/giphy.gif" width="400" alt="spider-man coding">
-</div>
-
-- 🚀 **Ищу крутые проекты для создания цифровой магии!**  
-- 🤝 **Доступен для коллабов:** Фронтенд × AI × Космический UI  
-
----
-
-### 🛠️ Мои проекты
-
-- **GRAVITINOUP** - Космические интерфейсы для будущего  
-- **AI Dashboard** - Управление AI-моделями через интуитивный интерфейс  
-- **Multiverse UI Kit** - Библиотека компонентов для креативных проектов  
-
----
-
-### 📫 Как связаться
-
-- **Email:** [matveyka.fadeyka@gmail.com](mailto:matveyka.fadeyka@gmail.com)  
-- **Telegram:** [@mkid1e](https://t.me/mkid1e)  
-- **GitHub:** [maofao](https://github.com/maofao)  
-
----
-
-### 🎯 Цели на будущее
-
-- 🌌 Создать интерфейс для управления мультивселенной  
-- 🤖 Интегрировать AI в каждый проект  
-- 🚀 Освоить новые технологии для создания еще более крутых интерфейсов  
-
----
-
-### 📈 Дополнительная статистика
-
-<div align="center">
-
-[![GitHub Commits](https://img.shields.io/github/commit-activity/m/maofao?label=Commits&style=for-the-badge)](https://github.com/maofao)
-[![GitHub Issues](https://img.shields.io/github/issues/maofao?label=Issues&style=for-the-badge)](https://github.com/maofao)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/maofao?label=Pull%20Requests&style=for-the-badge)](https://github.com/maofao)
-
-</div>
 
 ---
 
 > "С кодом и паутиной, я создаю будущее!" 🕷️
+
+
+
+
+
+
