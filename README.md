@@ -1,4 +1,4 @@
-# 👋 Привет, я Matvey | Frontend Developer 🚀
+# 👋 Привет, я Matvey | Frontend Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=FF004F&width=500&lines=Web-Slinging+Code+Like+Spider-Man+%F0%9F%95%B8%EF%B8%8F;React+%7C+TypeScript+%7C+AI+Wizard;24%2F7+Building+Multiverse+Interfaces!)](https://git.io/typing-svg)
 
