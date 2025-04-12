@@ -58,10 +58,10 @@
 
 ## ✨ Виджеты Статистики
 
-### language's
+## language's
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maofao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### Trophy
+## Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=maofao&theme=juicyfresh&no-bg=true" />
 
 ---
