@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### **UI/UX Мастерство**
+## **UI/UX Мастерство**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -29,7 +29,7 @@
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-### **JS Libraries & Frameworks**
+## **JS Libraries & Frameworks**
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white&style=for-the-badge)
