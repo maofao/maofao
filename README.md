@@ -75,7 +75,7 @@
 ---
 
 ## 🌟 Мои проекты
-- **[Space Dashboard](portfolio-ten-snowy-29.vercel.app)**: Панель управления с дизайном на React и TypeScript.  
+- **[Space Dashboard](portfolio-ten-snowy-29.vercel.app)**: Панель на React и TypeScript.  
 
 ---
 
