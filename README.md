@@ -75,7 +75,7 @@
 ---
 
 ## 🌟 Мои проекты
-- **[Space Dashboard](portfolio-ten-snowy-29.vercel.app)**: Панель на React и TypeScript.  
+- **[CryptoRanec](https://github.com/maofao/Portfolio)**: Панель на React и TypeScript.  
 
 ---
 
