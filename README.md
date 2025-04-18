@@ -1,4 +1,4 @@
-# 👋 Я Матвей | Frontend Developer
+# 👋 Я Матвей  Frontend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=FF004F&width=500&lines=Пишу+код+как+Человек-Паук+%F0%9F%95%B8%EF%B8%8F;React+%7C+TypeScript+%7C+AI;Создаю+интерфейсы+24%2F7)](https://git.io/typing-svg)
 
