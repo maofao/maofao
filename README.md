@@ -55,7 +55,6 @@
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maofao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maofao&theme=dark)
 
 ## 🚀 Проекты
 - **Terminal-Trading**  
