@@ -12,7 +12,6 @@
   ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white)
 - **API**: 
   ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
-  RTK Query
   ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=react-query&logoColor=white)
   ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
@@ -22,16 +21,15 @@
   ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)
 - **UI**: 
   ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=ant-design&logoColor=white)
-  ShadCn
-  HeroUI
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white)
-  GlueStack
+   GlueStack,ShadCn
+   HeroUI
 - **Other**: 
-  React-Router
-  i18n
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
   React Hook Form
+   React-Router
+  i18n
 
 ## 🛠 Backend
 - **Base**: 
@@ -69,7 +67,7 @@
 
 ## 📫 Связаться со мной
 - [GitHub](https://github.com/maofao)
-- [Email](mailto:matveyka.fadeyka@gmail.com) *(замените на ваш email, если хотите добавить)*
+- [Email](mailto:matveyka.fadeyka@gmail.com) 
 
 ---
 
