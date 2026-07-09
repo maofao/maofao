@@ -126,6 +126,6 @@ Frontend-разработчик с опытом **более 4 лет**. Спе�
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maofao&label=Просмотров+профиля&color=0e75b6&style=flat" alt="Счётчик просмотров"/>
+<p align="center", display="flex">
+  <img src="https://komarev.com/ghpvc/?username=maofao&label=Гости&color=0e75b6&style=flat" alt="Счётчик"/>
 </p>
