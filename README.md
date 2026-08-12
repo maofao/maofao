@@ -116,9 +116,9 @@
 ### 📫 Связаться со мной
 
 - **GitHub:** [maofao](https://github.com/maofao)
-- **LinkedIn:** [Матвей Фадеев](https://www.linkedin.com/in/матвей-фадеев-5b32aa294)
+- **LinkedIn:** [Матвей](www.linkedin.com/in/матвей-витязев-5b32aa294)
 - **Telegram:** [@mersysaid](https://t.me/mersysaid)
-- **Email:** [mate.fadeev@gmail.com](mailto:mate.fadeev@gmail.com)
+- **Email:** [mate.vityaz@gmail.com](mailto:mate.vityaz@gmail.com)
 
 ---
 
